@@ -22,7 +22,7 @@ public class ReceiverPage extends JFrame implements ActionListener{
 	
 	JButton addButton,updateButton,searchButton,deleteButton,clearButton,showAllButton;
 	JButton backButton;
-	ReceiverList receiverList = new ReceiverList();
+	ReceiverList receiverList = new ReceiverList((short)1000);
 	
 	class BackGroundPanel extends JPanel{
 		Image backGroundImage = new ImageIcon("./Backup/background2.jpg").getImage();
