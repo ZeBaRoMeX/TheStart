@@ -21,7 +21,7 @@ public class InventoryPage extends JFrame implements ActionListener{
 	JButton backButton;
 	
 	
-	InventoryList inventoryList = new InventoryList();
+	InventoryList inventoryList = new InventoryList((short)1000);
 	
 	class BackGroundPanel extends JPanel{
 		Image backGroundImage = new ImageIcon("./Backup/background2.jpg").getImage();
