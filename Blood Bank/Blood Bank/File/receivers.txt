@@ -1,5 +1,0 @@
-0001;rahim;26;Male;A+;Whole Blood;200.0;Kurmitola General Hospital
-0002;rahim;26;Male;A+;Whole Blood;200.0;Kurmitola General Hospital
-0003;rahim;26;Male;A+;Whole Blood;200.0;Kurmitola General Hospital
-0004;rahim;26;Male;A+;Whole Blood;200.0;Kurmitola General Hospital
-0005;rahim;26;Male;A+;Whole Blood;200.0;Kurmitola General Hospital
